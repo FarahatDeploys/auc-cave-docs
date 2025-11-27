@@ -3,15 +3,22 @@
 ## Overview
 CAVE (Computer Automated Virtual Environment) is a technology that enables collaborative and immersive virtual reality experiences. This repository provides the complete software system along with full documentation for controlling, monitoring, and visualizing 3D objects within the AUC CAVE environment. It also includes hardware specifications and integrations with cost effective tools. The system supports workflows from SOLIDWORKS, ANSYS, and Blender, and visualizes them through platforms such as Unreal Engine, Unity, and ParaView.
 
-## Features
+<div style="text-align: center;">
+    <img src="figures/GeneralSystem.png" width="400">
+</div>
+
+
+
+## Getting Started
+To view the documentation, visit [Read the Docs link](https://auc-cave-docs.readthedocs.io/en/latest/). or go to the quick start guide [Notion Guide](https://nervous-land-34f.notion.site/AUC-CAVE-Ultimate-Guide-a49bc6f61d1d4d06905f2bf3d72abdd6) 
+
+
+## What to expect from this documentation ? 
 - Detailed instructions on setting up and using the AUC CAVE system.
 - Step-by-step guides for integrating various components.
 - API documentation for developers.
 - FAQs and troubleshooting tips.
 
-
-## Getting Started
-To view the documentation, visit [Read the Docs link](https://auc-cave-docs.readthedocs.io/en/latest/). or go to the quick start guide [Notion Guide](https://nervous-land-34f.notion.site/AUC-CAVE-Ultimate-Guide-a49bc6f61d1d4d06905f2bf3d72abdd6) 
 
 
 ## nDisplay Configuration
