@@ -1,4 +1,5 @@
-# ReadTheDocs AUC CAVE
+# auc-cave-docs
+
 
 ## Overview
 CAVE (Computer Automated Virtual Environment) is a technology that enables collaborative and immersive virtual reality experiences. This repository provides the complete software system along with full documentation for controlling, monitoring, and visualizing 3D objects within the AUC CAVE environment. It also includes hardware specifications and integrations with cost effective tools. The system supports workflows from SOLIDWORKS, ANSYS, and Blender, and visualizes them through platforms such as Unreal Engine, Unity, and ParaView.
